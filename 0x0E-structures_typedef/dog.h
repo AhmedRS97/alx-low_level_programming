@@ -4,8 +4,8 @@
 /**
  * struct dog - dog information
  * @name: First member
- * @age: Second member
- * @owner: Third member
+ * @owner: Second member
+ * @age: Third member
  *
  * Description: Longer description
  */
@@ -17,4 +17,4 @@ struct dog
 	float age;
 };
 
-#endif
+#endif /*DOG_H*/
